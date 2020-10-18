@@ -30,7 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+#remote_theme: andrewhwanpark/dark-poole
+remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
